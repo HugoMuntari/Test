@@ -1,8 +1,2 @@
 # Bonjour
-Bonjour
-BonjourBonjourBonjour
-BonjourBonjour
-Bonjour
-Bonjour
-Bonjour
-BonjourBonjourBonjourBonjourBonjourBonjourBonjourBonjour
+Coucou toi !
